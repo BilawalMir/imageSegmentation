@@ -69,17 +69,3 @@ segment_image.segmentImage("image.jpg", output_image_name = "output1.jpg", show_
 ## Contributing
 
 Contributions are welcome!  Feel free to submit pull requests or open issues.
-
-## License
-
-(Add a license if applicable.  For example, MIT License)
-```
-
-Key improvements in this README:
-
-* **Clearer instructions:** Step-by-step guide on how to run the code.
-* **Dependency management:** Explicitly mentions all required libraries and how to install them.
-* **Troubleshooting:** Addresses common issues users might encounter.
-* **Code explanation:** Provides a breakdown of the code's functionality.
-* **More professional structure:** Uses standard Markdown formatting for readability.
-* **Contribution and License sections:** Encourages collaboration and specifies licensing information.
