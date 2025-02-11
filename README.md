@@ -1,3 +1,4 @@
+## Author : Bilawal Mir
 ```markdown
 # Image Segmentation using PixelLib
 
